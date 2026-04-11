@@ -130,6 +130,18 @@ git clone https://github.com/Aidan-996/Website-Tools.git
 
 &nbsp;
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Contributing | 参与贡献
+
+欢迎提交 Issue 和 Pull Request！详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+```
+Fork → Clone → Branch → Commit → Push → Pull Request
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+&nbsp;
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22"> &nbsp;License | 版权声明
 
 <table><tr><td>
