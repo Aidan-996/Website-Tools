@@ -19,80 +19,61 @@
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About | 关于
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;这是什么 | What is this
 
-一个集合了 **88+ 实用工具** 和 **100+ AI & 开发者平台导航** 的在线工具箱。
+一个纯前端的在线工具箱，集合了 **88+ 实用工具** 和 **100+ AI & 开发者平台导航**，打开浏览器就能用。
 
-<table><tr><td>
+日常工作中经常需要格式化 JSON、转换编码、算子网、生成密码、查端口号……每次都要去搜不同的网站。这个工具箱把这些常用工具整合到了一个页面里，同时收录了主流的 AI 平台和开发者常用网站，方便一站式查找。
 
-**Zero Install / 零安装** — 无需下载安装任何软件，打开浏览器即可使用全部工具
+**所有工具在浏览器本地运行，不上传任何数据。**
 
-**Privacy First / 隐私优先** — 所有工具均在浏览器本地运行，数据不会上传至任何服务器，你的数据只属于你
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28"> &nbsp;有什么功能 | What's inside
 
-**Dark & Light / 深浅主题** — 一键切换深色 / 浅色主题，适配不同使用场景，保护你的眼睛
+**三个页面，左侧导航切换：**
 
-**Particle Background / 粒子背景** — 科技感十足的粒子连线动效背景，鼠标移动时粒子会跟随互动
-
-**Sidebar Navigation / 侧边导航** — 左侧固定导航栏，About Me / AI 导航 / 工具箱三大板块一键切换，工具分类一目了然
-
-**Responsive / 响应式** — 完美适配桌面端和移动端，手机上也能流畅使用
-
-**Open Source / 开源** — 代码完全开源，欢迎 Fork、Star 和 PR，一起把工具箱做得更好
-
-</td></tr></table>
+| 页面 | 内容 |
+|------|------|
+| **About Me** | 个人介绍、技术栈、技术文章链接 |
+| **AI Navigation** | 100+ AI 和开发者网站导航（对话/编程/图像/视频/写作/设计/开发平台/API/前端/DevOps） |
+| **Online Tools** | 88+ 在线工具，12 个分类，搜索 + 按分类/名称排序 |
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28"> &nbsp;Features | 功能特性
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28"> &nbsp;工具清单 | Tool List
 
-<table><tr><td>
+**12 个分类，88 个工具：**
 
-**88+ 在线工具**
-- 文本处理：字数统计、去重、排序、对比、正则提取
-- 编码解码：Base64、URL、HTML、Unicode、JWT、摩尔斯电码
-- 加密哈希：MD5、SHA、UUID、密码生成、密码强度检测
-- 格式化：JSON、XML、CSS、SQL、HTML、JavaScript
-- 转换工具：时间戳、颜色、单位、JSON/YAML、Markdown
-- 生成工具：二维码、正则测试、Cron、CSS 圆角/渐变/阴影
-- 图片工具：Base64 互转、取色器、SVG 预览、Favicon 生成
-- 开发工具：JSONPath、HTTP 状态码、Chmod、cURL 生成器
-- 网络运维：子网计算器、CIDR 转换、端口速查、DNS 记录
-- 安全工具：密码强度、哈希识别、XSS 过滤、多进制编码
-- 数学计算：百分比、房贷计算器、日期差、文件大小、网速换算
-- 日常工具：计算器、BMI、倒计时、世界时钟、番茄钟、记事本
+| 分类 | 包含工具 |
+|------|---------|
+| 文本工具 | 字数统计、大小写转换、去重、排序、反转、替换、对比、随机文本、转义、正则提取、缩进、行号 |
+| 编码/解码 | Base64、URL、HTML、Unicode、进制转换、ASCII、JWT、UTF-8、摩尔斯电码、Punycode |
+| 加密/哈希 | MD5、SHA、UUID、密码生成、哈希比较 |
+| 格式化 | JSON、XML、CSS、SQL、HTML、JavaScript |
+| 转换工具 | JSON/YAML、CSV/JSON、时间戳、颜色、单位换算、数字转中文、Markdown |
+| 生成工具 | 二维码、随机数、正则测试、Cron、CSS 圆角/渐变/阴影 |
+| 图片工具 | Base64 互转、取色器、占位图、SVG 预览、Favicon |
+| 开发工具 | JSONPath、HTTP 状态码、MIME、UserAgent、Meta 标签、Chmod、HTML 预览、IP 信息、JSON 转 TS、cURL 生成 |
+| 网络/运维 | 子网计算器、CIDR 转换、端口速查、DNS 记录、SSL 证书解析、Crontab、HTTP 头、正则速查 |
+| 安全工具 | 密码强度检测、哈希类型识别、多进制编码、XSS 过滤测试 |
+| 数学/计算 | 百分比、房贷计算器、日期差、文件大小换算、网速换算 |
+| 日常工具 | 计算器、BMI、年龄、倒计时、世界时钟、记事本、秒表、习惯打卡、番茄钟 |
 
-</td></tr></table>
+**AI & 开发者导航（100+ 站点）：**
 
-<table><tr><td>
-
-**100+ AI & 开发者导航**
-- AI 对话：Claude、ChatGPT、Gemini、Copilot、Kimi、DeepSeek、通义千问、豆包
-- AI 编程：GitHub Copilot、Cursor、Claude Code、Bolt.new、v0.dev、Replit
-- AI 图像：Midjourney、DALL-E、Stable Diffusion、Remove.bg
-- AI 视频：Sora、Runway、HeyGen、Suno、CapCut
-- AI 写作：Notion AI、Gamma、Perplexity、Grammarly、Dify
-- AI 设计：Canva、Figma、Framer、LogoAI
-- 开发平台：GitHub、GitLab、Stack Overflow、CodePen、Vercel、Netlify
-- 文档学习：MDN、DevDocs、LeetCode、freeCodeCamp、Roadmap.sh
-- API 后端：Postman、Hoppscotch、Swagger、Supabase、Docker Hub
-- 前端 UI：Tailwind CSS、shadcn/ui、Font Awesome、Coolors、Google Fonts
-- DevOps：Grafana、Prometheus、Ansible、Terraform、Kubernetes、Jenkins
-- 开发工具：Regex101、JSON Crack、Carbon、Excalidraw、dbdiagram、readme.so
-
-</td></tr></table>
-
-<table><tr><td>
-
-**界面特性**
-- 左侧固定导航栏，分类清晰
-- 深色 / 浅色主题一键切换
-- 粒子连线科技风背景 + 鼠标互动
-- 头像旋转光环动效
-- 工具卡片 hover 放大高亮
-- 滚动公告栏
-- 返回顶部按钮
-- 页面切换动画
-- 移动端响应式适配
+| 分类 | 包含站点 |
+|------|---------|
+| AI 对话 | Claude、ChatGPT、Gemini、Copilot、Poe、Kimi、通义千问、豆包、DeepSeek |
+| AI 编程 | GitHub Copilot、Cursor、Claude Code、Bolt.new、v0.dev、Replit |
+| AI 图像 | Midjourney、DALL-E、Stable Diffusion、Ideogram、Remove.bg、TinyPNG |
+| AI 视频/音频 | Sora、Runway、ElevenLabs、HeyGen、Suno、CapCut |
+| AI 写作/效率 | Notion AI、Gamma、Perplexity、Grammarly、Jasper、Dify |
+| AI 设计 | Canva、Figma、Framer、LogoAI |
+| 开发平台 | GitHub、GitLab、Stack Overflow、CodePen、CodeSandbox、StackBlitz、Vercel、Netlify |
+| 文档/学习 | MDN、DevDocs、W3Schools、LeetCode、freeCodeCamp、Roadmap.sh |
+| API/后端 | Postman、Hoppscotch、Swagger、Supabase、Railway、Docker Hub |
+| 前端/UI | Tailwind CSS、shadcn/ui、Font Awesome、Iconify、Coolors、CSS Gradient、Animate.css、Google Fonts |
+| DevOps/监控 | Grafana、Prometheus、Ansible、Terraform、Kubernetes、Jenkins、Sentry、Uptime.is |
+| 开发工具 | Regex101、JSON Crack、Crontab Guru、Carbon、Excalidraw、dbdiagram、gitignore.io、readme.so、Transform、Ray.so |
 
 </td></tr></table>
 
@@ -130,17 +111,22 @@
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22"> &nbsp;Usage | 使用方式
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22"> &nbsp;怎么用 | How to use
+
+**方式一：直接下载**
+
+1. 点击页面上方绿色 **Code** 按钮 → **Download ZIP**
+2. 解压后双击 `index.html` 打开
+
+**方式二：Git Clone**
 
 ```bash
-# Clone the repository
 git clone https://github.com/Aidan-996/Website-Tools.git
-
-# Open in browser
-# Just open index.html directly - no server needed
 ```
 
-> No dependencies, no build step, no server. Just open `index.html` in your browser.
+打开文件夹里的 `index.html` 就行。
+
+> 不需要安装任何东西，不需要启动服务器，不需要联网（工具部分）。浏览器直接打开就能用。
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
