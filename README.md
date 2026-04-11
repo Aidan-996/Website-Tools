@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&random=false&width=700&lines=Aidan's+Online+Toolbox+%F0%9F%9B%A0%EF%B8%8F;88%2B+Tools+%7C+AI+Navigation+%7C+Dark%2FLight+%F0%9F%8C%93;No+Install+%7C+No+Upload+%7C+Browser+Only+%F0%9F%94%92)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Tools-88+-00C3FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Sites-40+-7B2FF7?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_&_Dev_Sites-100+-7B2FF7?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Theme-Dark%2FLight-FF6B6B?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Privacy-Local_Only-4ECDC4?style=flat-square&logoColor=white" />
 
@@ -49,13 +49,19 @@
 
 <table><tr><td>
 
-**40+ AI 导航**
+**100+ AI & 开发者导航**
 - AI 对话：Claude、ChatGPT、Gemini、Copilot、Kimi、DeepSeek、通义千问、豆包
 - AI 编程：GitHub Copilot、Cursor、Claude Code、Bolt.new、v0.dev、Replit
 - AI 图像：Midjourney、DALL-E、Stable Diffusion、Remove.bg
 - AI 视频：Sora、Runway、HeyGen、Suno、CapCut
 - AI 写作：Notion AI、Gamma、Perplexity、Grammarly、Dify
 - AI 设计：Canva、Figma、Framer、LogoAI
+- 开发平台：GitHub、GitLab、Stack Overflow、CodePen、Vercel、Netlify
+- 文档学习：MDN、DevDocs、LeetCode、freeCodeCamp、Roadmap.sh
+- API 后端：Postman、Hoppscotch、Swagger、Supabase、Docker Hub
+- 前端 UI：Tailwind CSS、shadcn/ui、Font Awesome、Coolors、Google Fonts
+- DevOps：Grafana、Prometheus、Ansible、Terraform、Kubernetes、Jenkins
+- 开发工具：Regex101、JSON Crack、Carbon、Excalidraw、dbdiagram、readme.so
 
 </td></tr></table>
 
