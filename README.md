@@ -66,7 +66,7 @@
 | AI 编程 | GitHub Copilot、Cursor、Claude Code、Bolt.new、v0.dev、Replit |
 | AI 图像 | Midjourney、DALL-E、Stable Diffusion、Ideogram、Remove.bg、TinyPNG |
 | AI 视频/音频 | Sora、Runway、ElevenLabs、HeyGen、Suno、CapCut |
-| AI 写作/效率 | Notion AI、Gamma、Perplexity、Grammarly、Jasper、Dify |
+| AI 写作/效率 | Notion AI、Remio、Gamma、Perplexity、Grammarly、Jasper、Dify |
 | AI 设计 | Canva、Figma、Framer、LogoAI |
 | 开发平台 | GitHub、GitLab、Stack Overflow、CodePen、CodeSandbox、StackBlitz、Vercel、Netlify |
 | 文档/学习 | MDN、DevDocs、W3Schools、LeetCode、freeCodeCamp、Roadmap.sh |
